@@ -6,10 +6,10 @@ Este proyecto nace de la dificultad en costo y/o disponibilidad de la informacio
 
 Podrás consultar:
 
-Estado de Situacion Financiera
-Estado de Flujos de Efectivo
-Estado de Resultado (YTD y por trimestre)
+1. Estado de Situacion Financiera
+2. Estado de Flujos de Efectivo
+3. Estado de Resultado (YTD y por trimestre)
 
 Conceptos en inglés (de acuerdo al IFRS) y en español. Año actual vs año anterior.
 
-Las emisoras que incluye son: Acciones, FIBRAS y TRACS
+Emisoras incluidas: Acciones, FIBRAS y TRACS
